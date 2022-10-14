@@ -1,0 +1,5 @@
+name: Parkour
+main: me.pronil.parkour.Parkour
+version: 1.0
+depend:
+  - WorldGuard
